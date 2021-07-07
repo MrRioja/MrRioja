@@ -10,7 +10,7 @@
   
 ![mrrioja](https://komarev.com/ghpvc/?username=mrrioja&label=Profile%20views&color=0e75b6&style=flat)
 ![visitor](https://visitor-badge.glitch.me/badge?page_id=MrRioja.MrRioja)
-![Updated Badge](https://badges.pufler.dev/updated/MrRioja/MrRioja)
+
 </div>
   
 <br/>
