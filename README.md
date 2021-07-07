@@ -76,7 +76,7 @@
 
 ## Github Stats :bar_chart:
 
-<img style="width: 100%" src="http://github-readme-streak-stats.herokuapp.com?user=MrRioja&theme=algolia" />
+<img style="width: 100%" src="http://github-readme-streak-stats.herokuapp.com?user=MrRioja&theme=algolia&hide_border=true" />
 
 <img style="width: 100%" src="https://github-readme-stats.vercel.app/api?username=mrrioja&theme=algolia&show_icons=true&count_private=true&hide_border=true&hide=issues,prs" />
 
