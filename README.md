@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<h1>I'm Luiz Rioja, a backend developer 👨‍💻🚀</h1>
+<h1>I'm Luiz Rioja, a full stack developer 👨‍💻🚀</h1>
 </div>
 
 <div align="center">
@@ -14,17 +14,6 @@
 
 </div>
   
-<br/>
-<br/>
-
-🔭 I’m currently working on [Loggi](https://www.linkedin.com/company/loggi/about/) :rabbit:
-
-🌱 I’m currently learning NodeJs, Docker and AWS
-
-📚 Ignite Student - NodeJs Trail
-
-<br/>
-
 ## My Skill Set :muscle:
 
 <details>
