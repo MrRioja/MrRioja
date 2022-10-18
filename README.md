@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<h1>I'm Luiz Rioja, a full stack developer 👨‍💻🚀</h1>
+<h1>I'm Luiz Rioja, a backend developer 👨‍💻🚀</h1>
 </div>
 
 <div align="center">
