@@ -68,7 +68,7 @@
 
 <img style="width: 100%" src="http://github-readme-streak-stats.herokuapp.com?user=MrRioja&theme=algolia&hide_border=true" />
 
-<img style="width: 100%" src="https://github-readme-stats.vercel.app/api?username=mrrioja&theme=algolia&show_icons=true&count_private=true&hide_border=true&hide=issues,prs" />
+<img style="width: 100%" src="https://github-readme-stats.vercel.app/api?username=mrrioja&theme=algolia&show_icons=true&count_private=true&hide_border=true&hide=issues" />
 
 <img style="width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrrioja&theme=algolia&hide_border=true&layout=compact&card_width=445&hide=css,html,objective-C" />
 
